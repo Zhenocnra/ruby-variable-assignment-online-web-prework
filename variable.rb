@@ -1,1 +1,3 @@
-def 
+def greeting
+  "Hello World"
+end
